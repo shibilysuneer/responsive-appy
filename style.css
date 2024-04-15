@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.space{
+
+    padding: 50px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.bg-none{
+    background-color:black ;
+}
+.appy{
+    width: 300px;
+}
+.appy-one{
+    width: 24%;
+    margin-top: 80px;
+    height: 100vh;
+
+}
+#visible{
+    padding: 50px;
+}
+.img-fluid-appy{
+      color: white;
+      font-size: 40px;
+      font-family: sans-serif;
+}
+.para-one{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+      
